@@ -39,7 +39,7 @@ During the Supervised Learning - Post Graduate Programme Course, I undertook the
 
 During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
 
-![Food Hub Images](/images/foodhub (new).jpeg)
+![Food Hub Images](/images/foodhub(new).jpeg)
 
 **FoodHub Order Analysis**
 
