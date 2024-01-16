@@ -1,5 +1,4 @@
 # Data Scientist 
-# Ahmed Shehata 
 
 ## Technical Skills
 - Python, SQL, Tableau, Excel 
