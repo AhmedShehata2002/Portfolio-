@@ -27,15 +27,15 @@
 
 ## Projects
 
-**ReCell Project (_Jan 2024_)**  
+**ReCell Project**  
 
 During the Supervised Learning - Post Graduate Programme Course, I undertook the ReCell Project, leveraging my Python skills to analyze a dataset of used devices. In this project, I employed Linear Regression to construct a dynamic pricing model for used and refurbished devices. Ensuring a robust understanding, I evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability. The analysis identified crucial factors influencing device prices. The project showcased my proficiency in Exploratory Data Analysis (EDA) and provided valuable business insights and recommendations based on the model's findings.
   
-**E-news Express Project | (_Nov 2023_)**
+**E-news Express Project**
 
 During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
 
-**FoodHub Order Analysis using Python | PGP Course (_Oct 2023_)**
+**FoodHub Order Analysis using Python**
 
 As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focusing on the exploration of orders data from a food aggregator company. Through thorough exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team. The project aimed to extract actionable insights to enhance the business strategies of the company. Python was the primary language used for this comprehensive data analysis.
 
