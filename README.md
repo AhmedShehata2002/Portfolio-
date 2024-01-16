@@ -6,18 +6,17 @@
 
 ## Education
 - Post Graduate Programme, Data Science and Business Analytics | Texas McCombs School of Business (_Aug 2023 - May 2024_)
-- Bachelor of Science, Medical Science | Oxford Brookes University (_Sep 2020 - May 2023_)
-  - GPA: Upper Second Class (2:1)
+- Bachelor of Science, Medical Science | Oxford Brookes University (_Sep 2020 - May 2023_) 
 
 ## Work Experience
-**Data Analyst and Marketing Intern @ FHS Law Consultants (_Aug 2022 - Aug 2022_)**
+**Data Analyst and Marketing Intern @ FHS Law Consultants (_Aug 2022_)**
 - Reengineered marketing strategies to enhance operational efficiency resulting in a 10% decrease in resource allocation for underperforming areas.
 
-**Healthcare Data Analyst Intern @ Al Zaabi Healthcare (ADAM & EVE) (_Aug 2022 - Aug 2022_)**
+**Healthcare Data Analyst Intern @ Al Zaabi Healthcare (ADAM & EVE) (_Aug 2022_)**
 - Leveraged Pandas, NumPy, and Excel for data cleaning and preprocessing, resulting in a notable 20% enhancement in data quality.
 - Utilized Power BI to create and present data visualizations to hospital management teams.
 
-**Property Analyst Intern @ AMIGO Properties (Real Estate) (_Jul 2022 - Jul 2022_)**
+**Property Analyst Intern @ AMIGO Properties (Real Estate) (_Jul 2022_)**
 - Executed a linear regression machine learning model to analyze property prices based on location and other features, increasing property optimizing pricing strategies.
 - Employed A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12% improvement and inform data-driven optimizations.
 
