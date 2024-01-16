@@ -41,7 +41,7 @@
 - Analyzed a simulated dataset with important metrics such as converted status and time spent on the page to determine the landing page's effectiveness.
 - Explored the dependence of conversion on the preferred language using statistical inference.
 
-  **FoodHub Order Analysis using Python | Python - Foundations Course (_Oct 2023_)**
+**FoodHub Order Analysis using Python | Python - Foundations Course (_Oct 2023_)**
 - Conducted exploratory data analysis (Variable Identification, Univariate analysis, Bi-Variate analysis) on the orders data of a food aggregator company.
 - Addressed key questions provided by the Data Science team to draw actionable insights for business improvement.
 
