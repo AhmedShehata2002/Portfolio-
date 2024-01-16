@@ -27,21 +27,13 @@
 
 ## Projects
 
-**ReCell Project | Supervised Learning - Foundations Course (_Jan 2024_)**
-- Analyzed a dataset of used devices to develop a model for a dynamic pricing strategy for used and refurbished devices.
-- Employed Linear Regression to build the pricing model, ensuring a robust understanding of the relationships between variables.
-- Evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability.
-- Applied skills in Exploratory Data Analysis (EDA), Linear Regression, and understanding Linear Regression assumptions.
-- Provided business insights and recommendations based on the model's findings.
+**ReCell Project | (_Jan 2024_)**
+During the Supervised Learning - Post Graduate Programme Course, I undertook the ReCell Project, leveraging my Python skills to analyze a dataset of used devices. In this project, I employed Linear Regression to construct a dynamic pricing model for used and refurbished devices. Ensuring a robust understanding, I evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability. The analysis identified crucial factors influencing device prices. The project showcased my proficiency in Exploratory Data Analysis (EDA) and provided valuable business insights and recommendations based on the model's findings.
   
-**E-news Express Project | Business Statistics Course (_Nov 2023_)**
-- Conducted statistical analysis, a/b testing, and visualization to evaluate the effectiveness of the new landing page for an online news portal (E-news Express) in gathering new subscribers.
-- Analyzed a simulated dataset with important metrics such as converted status and time spent on the page to determine the landing page's effectiveness.
-- Explored the dependence of conversion on the preferred language using statistical inference.
+**E-news Express Project | (_Nov 2023_)**
+During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
 
-**FoodHub Order Analysis using Python | Python - Foundations Course (_Oct 2023_)**
-- Conducted exploratory data analysis (Variable Identification, Univariate analysis, Bi-Variate analysis) on the orders data of a food aggregator company.
-- Addressed key questions provided by the Data Science team to draw actionable insights for business improvement.
-
+**FoodHub Order Analysis using Python | PGP Course (_Oct 2023_)**
+As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focusing on the exploration of orders data from a food aggregator company. Through thorough exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team. The project aimed to extract actionable insights to enhance the business strategies of the company. Python was the primary language used for this comprehensive data analysis.
 
 
