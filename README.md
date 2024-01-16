@@ -36,7 +36,7 @@ During the Supervised Learning - Post Graduate Programme Course, I undertook the
 During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
 
 **FoodHub Order Analysis**
-(foodhub.jpeg)
+(/images/foodhub.jpeg)
 As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focusing on the exploration of orders data from a food aggregator company. Through thorough exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team. The project aimed to extract actionable insights to enhance the business strategies of the company. Python was the primary language used for this comprehensive data analysis.
 
 
