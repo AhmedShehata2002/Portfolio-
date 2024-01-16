@@ -33,13 +33,13 @@
 
 During the Supervised Learning - Post Graduate Programme Course, I undertook the ReCell Project, leveraging my Python skills to analyze a dataset of used devices. In this project, I employed Linear Regression to construct a dynamic pricing model for used and refurbished devices. Ensuring a robust understanding, I evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability. The analysis identified crucial factors influencing device prices. The project showcased my proficiency in Exploratory Data Analysis (EDA) and provided valuable business insights and recommendations based on the model's findings.
 
-![E News Image](/images/E-News.webp)
+![E News Image](/images/E-News(new).webp)
   
 **E-news Express Project**
 
 During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
 
-![Food Hub Image](/images/foodhub.jpeg)
+![Food Hub Image](/images/foodhub(new).jpeg)
 
 **FoodHub Order Analysis**
 
