@@ -1,7 +1,7 @@
 # Data Scientist 
 
 ## Technical Skills
-- Python, SQL, Tableau, Excel 
+- Python, SQL, Tableau, Excel
 
 ## Education
 - Post Graduate Programme, Data Science and Business Analytics | Texas McCombs School of Business (_Aug 2023 - May 2024_)
