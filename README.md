@@ -54,8 +54,8 @@ Our project aims to build a predictive model using machine learning classificati
 
 ![Oura Health Metrics](/images/oura.jpeg)
 
-**Personal Health Ring** (In Progress)
-In this project I will download over 5 months of my personal activity and sleep metrics to assess my performance based on my "readiness level", activity level and sleep. Other metrics will include body temperature, REM sleep, HRV, Steps, Equivalent Walking Distance and recovery index. This data will be used to assess how I could further improve my health and wellbeing as well as provide as overview of my physical performance over the last couple of months.  
+**Personal Health Ring** 
+This is my next upcoming project in this project I will download over 5 months of my personal activity and sleep metrics to assess my performance based on my "readiness level", activity level and sleep. Other metrics will include body temperature, REM sleep, HRV, Steps, Equivalent Walking Distance and recovery index. This data will be used to assess how I could further improve my health and wellbeing as well as provide as overview of my physical performance over the last couple of months. 
 
 
 
