@@ -33,7 +33,7 @@
 
 During the Supervised Learning - Post Graduate Programme Course, I undertook the ReCell Project, leveraging my Python skills to analyze a dataset of used devices. In this project, I employed Linear Regression to construct a dynamic pricing model for used and refurbished devices. Ensuring a robust understanding, I evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability. The analysis identified crucial factors influencing device prices. The project showcased my proficiency in Exploratory Data Analysis (EDA) and provided valuable business insights and recommendations based on the model's findings.
 
-![E News Image](/images/E-news(new).jpeg)
+![E News Image](/images/E-news2.jpeg)
   
 **E-news Express Project**
 
