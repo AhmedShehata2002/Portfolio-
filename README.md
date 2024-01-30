@@ -50,11 +50,13 @@ As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focus
 ![Credit Card Default](/images/defaulting_card.jpeg)
 
 **Credit Card Default**  
+
 Our project aims to build a predictive model using machine learning classification techniques to assess loan applicants' risk of default. Leveraging various data points like credit history and loan amount, we enhance model accuracy using numeric and categorical attributes. Through analyzing misclassification costs, we refine our strategy for reliable credit risk assessment. The conclusion and recommendations to the project were that post-pruning decision trees achieved the highest recall. Key features like credit history and checking balance greatly influence default prediction. We recommend adding essential columns like Debt-to-Income Ratio,Education Level, Geographic Location, Financial Assets, and Financial Reserves for comprehensive risk assessment.
 
 ![Oura Health Metrics](/images/oura.jpeg)
 
 **Personal Health Ring** 
+
 This is my next upcoming project in this project I will download over 5 months of my personal activity and sleep metrics to assess my performance based on my "readiness level", activity level and sleep. Other metrics will include body temperature, REM sleep, HRV, Steps, Equivalent Walking Distance and recovery index. This data will be used to assess how I could further improve my health and wellbeing as well as provide as overview of my physical performance over the last couple of months. 
 
 
