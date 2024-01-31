@@ -55,7 +55,7 @@ As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focus
 
 Our project aims to build a predictive model using machine learning classification techniques to assess loan applicants' risk of default. Leveraging various data points like credit history and loan amount, we enhance model accuracy using numeric and categorical attributes. Through analyzing misclassification costs, we refine our strategy for reliable credit risk assessment. The conclusion and recommendations to the project were that post-pruning decision trees achieved the highest recall. Key features like credit history and checking balance greatly influence default prediction. We recommend adding essential columns like Debt-to-Income Ratio,Education Level, Geographic Location, Financial Assets, and Financial Reserves for comprehensive risk assessment.
 
-![Oura Health Metrics](/images/oura.jpeg)
+![Oura Health Metrics](/images/oura_2.jpeg)
 
 **Personal Health Ring** 
 
