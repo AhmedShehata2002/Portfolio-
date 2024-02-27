@@ -41,19 +41,55 @@
 
 **ReCell Project**  
 
-During the Supervised Learning - Post Graduate Programme Course, I undertook the ReCell Project, leveraging my Python skills to analyze a dataset of used devices. In this project, I employed Linear Regression to construct a dynamic pricing model for used and refurbished devices. Ensuring a robust understanding, I evaluated and addressed the assumptions of Linear Regression to enhance the model's reliability. The analysis identified crucial factors influencing device prices. The project showcased my proficiency in Exploratory Data Analysis (EDA) and provided valuable business insights and recommendations based on the model's findings.
+Project Summary:
+
+Throughout the Supervised Learning - Post Graduate Programme Course, I led the ReCell Project, harnessing my Python expertise to dissect a dataset containing used devices. Employing Linear Regression, I crafted a dynamic pricing model tailored to used and refurbished devices. To ensure robustness, I meticulously evaluated and rectified Linear Regression assumptions, thereby enhancing the model's reliability. The analysis unveiled pivotal factors impacting device prices, highlighting proficiency in Exploratory Data Analysis (EDA) and offering actionable business insights and recommendations grounded in the model's findings.
+
+Key Highlights:
+
+- Applied Exploratory Data Analysis (EDA) to extract insights from the used devices dataset.
+- Implemented Linear Regression to develop a dynamic pricing model for used and refurbished devices.
+- Rigorously evaluated and addressed assumptions underpinning Linear Regression to fortify the model's accuracy and dependability.
+- Identified and analyzed factors exerting significant influence on device prices, fostering informed decision-making.
+- Presented valuable business insights and recommendations derived from the model's findings, underscoring the practical application of data-driven strategies.
+
+The ReCell Project underscored the importance of leveraging advanced analytical techniques to inform pricing strategies and extract actionable insights for business enhancement. For further details regarding the project, please don't hesitate to reach out.
 
 ![E News Image](/images/E-news2.jpeg)
   
 **E-news Express Project**
 
-During the PGP, I led the E-news Express Project, employing statistical analysis, A/B testing, and visualization techniques to assess the efficacy of the new landing page for an online news portal. Utilizing a simulated dataset, I analyzed critical metrics like converted status and time spent on the page, ultimately determining the landing page's effectiveness. The project also delved into statistical inference to explore the impact of preferred language on conversion rates.
+Project Summary:
+
+Under the purview of the Business Statistics course, the E-news Express Project centered on leveraging statistical analysis, A/B testing, and visualization techniques to assess the efficacy of a new landing page for an online news portal, E-news Express. Through examination of a simulated dataset featuring critical metrics such as conversion status and time spent on the page, the project aimed to determine the landing page's ability to attract new subscribers. Additionally, the project scrutinized the correlation between conversion rates and users' preferred language.
+
+Key Highlights:
+
+- Applied statistical analysis methodologies including Hypothesis Testing and A/B testing to evaluate the effectiveness of the new landing page.
+- Utilized Data Visualization techniques to present insights gleaned from the dataset in a clear and comprehensible manner.
+- Examined critical metrics such as conversion status and time spent on the page to draw conclusions regarding the landing page's efficacy.
+- Investigated the influence of users' preferred language on conversion rates to identify potential patterns or correlations.
+- Engaged in Statistical Inference to derive meaningful insights and make informed decisions regarding the new landing page's performance.
+
+The E-news Express Project underscored the importance of utilizing statistical analysis and testing methodologies to inform decision-making processes and optimize business strategies. For further details on the project, please feel free to reach out for additional information.
 
 ![Food Hub Images](/images/Hubfood.jpeg)
 
 **FoodHub Order Analysis**
 
-As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focusing on the exploration of orders data from a food aggregator company. Through thorough exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team. The project aimed to extract actionable insights to enhance the business strategies of the company. Python was the primary language used for this comprehensive data analysis.
+Project Summary:
+
+During the PGP Course, I embarked on the FoodHub Order Analysis Project, delving into orders data from a food aggregator company. Employing Python as the primary language, the project revolved around conducting extensive exploratory data analysis to uncover insights crucial for refining the company's business strategies. Key analytical techniques such as Variable Identification, Univariate analysis, and Bi-Variate analysis were instrumental in addressing pivotal questions posed by the Data Science team.
+
+Key Highlights:
+
+- Applied Exploratory Data Analysis techniques including Variable Identification, Univariate analysis, and Bi-Variate analysis to dissect the orders data.
+- Utilized Python as the primary language for conducting comprehensive data analysis.
+- Collaborated with the Data Science team to decipher actionable insights aimed at enhancing business strategies.
+- Analyzed key questions outlined by the Data Science team to derive meaningful conclusions from the data.
+- Employed statistical and analytical methods to extract valuable insights and inform strategic decision-making processes.
+
+The FoodHub Order Analysis project underscored the importance of leveraging data-driven insights to refine business strategies and improve operational efficiency within the food aggregator company. For further insights into the project, feel free to contact me for additional details.
 
 ![INN Hotel Images](/images/INN-Hotel.jpeg)
 
