@@ -9,15 +9,17 @@
 
 ## Work Experience
 **Data Analyst and Marketing Intern @ FHS Law Consultants (_Aug 2022_)**
-- Reengineered marketing strategies to enhance operational efficiency resulting in a 10% decrease in resource allocation for underperforming areas.
-
+- Reengineered marketing strategies to enhance operational efficiency resulting in a 10 % decrease in resource allocation for underperforming area.
+- Constructed dashboards, generated reports, and designed data visualisations to uncover insights into the law firm's performance, client trends, and financial metrics.
+- Executed digital marketing campaigns, overseeing the firm's online presence, and analysing website traffic, social media engagement, and email marketing metrics.
+  
 **Healthcare Data Analyst Intern @ Al Zaabi Healthcare (ADAM & EVE) (_Aug 2022_)**
-- Leveraged Pandas, NumPy, and Excel for data cleaning and preprocessing, resulting in a notable 20% enhancement in data quality.
-- Utilized Power BI to create and present data visualizations to hospital management teams.
+- Employed Pandas, NumPy, and Excel to clean and preprocess data, resulting in a remarkable 20% enhancement in data quality for senior management.
+- Utilised Power BI to create and present data visualisations, enabling hospital management teams to identify areas for improvement in healthcare services, resulting in a 40% reduction in waiting time from 10 minutes to 6 minutes.
 
 **Property Analyst Intern @ AMIGO Properties (Real Estate) (_Jul 2022_)**
-- Executed a linear regression machine learning model to analyze property prices based on location and other features, increasing property optimizing pricing strategies.
-- Employed A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12% improvement and inform data-driven optimizations.
+- Executed a linear regression machine learning model to analyse property prices based on location and other features
+- Employed A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12 % improvement and inform data-driven optimisations
 
 **Leaderboard Coordinator and Tournament Oversight Manager @ Abu Dhabi Golf Club (_Dec 2019 - Dec 2020_)**
 - Orchestrated the seamless operation of leaderboards during the Abu Dhabi Golf tournament, ensuring accurate tracking and timely updates of player scores and rankings.
@@ -33,7 +35,7 @@
 - Spearheaded a workplace wellness program with Perfect Balance, resulting in a 20% reduction in employee-reported pain levels after the implementation of tailored stretches and prevention methods.
 
 ## Projects
-<p>note: I am unable to provide specific statistics or data regarding the project as they are copyrighted by PGP. <small>For further information about the project, please feel free to contact me directly.</small></p>
+<p>note: I am unable to provide specific statistics or data regarding the project publicly as they are copyrighted by PGP. <small>For further information about the project, please feel free to contact me directly.</small></p>
 
 ![Recell Image](/images/used-cell-phones-111821.jpeg)
 
