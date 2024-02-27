@@ -19,11 +19,18 @@
 - Executed a linear regression machine learning model to analyze property prices based on location and other features, increasing property optimizing pricing strategies.
 - Employed A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12% improvement and inform data-driven optimizations.
 
-**Data Entry Supervisor @ Abu Dhabi Golf Club (_Dec 2019 - Dec 2020_)**
-- Managed leaderboard during live events, ensuring 90% accuracy and timely updates.
+**Leaderboard Coordinator and Tournament Oversight Manager @ Abu Dhabi Golf Club (_Dec 2019 - Dec 2020_)**
+- Orchestrated the seamless operation of leaderboards during the Abu Dhabi Golf tournament, ensuring accurate tracking and timely updates of player scores and rankings.
+- Directed and supervised all aspects of leaderboard management across multiple tournament events, demonstrating keen attention to detail and effective team coordination to maintain the integrity of tournament data.
 
-**Physiotherapist and Dietitian's Shadow @ Perfect Balance Rehabilitation Center (_Sep 2018 - May 2019_)**
-- Designed a pain management program and informational leaflet for standing desk users leading to a 33% decrease in joint pain.
+**Special Needs Cycling Instructor and Volunteer @ GMS Special Olympics (_Sep 2018 - May 2019_)**
+- Collaborated efficiently with volunteers and professionals to develop a tailored program aimed at weekly sessions to enhance cycling skills for children with special needs, ensuring that the diverse needs of every child were addressed effectively while fostering an environment where they could both play and learn with confidence and enjoyment.
+
+**Event Management and Media Awareness Coordinator @ Emirates Red Crescent (_Sep 2018 - May 2019_)**
+- Led school-wide communication by sharing event details and managing charitable initiatives, fostering community engagement. Conceptualized and executed diverse charity events, including a televised staff event, demonstrating strong event management skills and commitment to philanthropy.
+  
+**Health and Ergonomics Research Assistant @ Perfect Balance Rehabilitation Center (_Sep 2018 - May 2019_)**
+- Spearheaded a workplace wellness program with Perfect Balance, resulting in a 20% reduction in employee-reported pain levels after the implementation of tailored stretches and prevention methods.
 
 ## Projects
 
@@ -44,6 +51,42 @@ During the PGP, I led the E-news Express Project, employing statistical analysis
 **FoodHub Order Analysis**
 
 As part of the PGP Course, I undertook the FoodHub Order Analysis Project, focusing on the exploration of orders data from a food aggregator company. Through thorough exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team. The project aimed to extract actionable insights to enhance the business strategies of the company. Python was the primary language used for this comprehensive data analysis.
+
+![INN Hotel Images](/images/INN-Hotel.jpeg)
+
+**INN Hotel Analysis**
+
+In the "INN Hotels" project, we utilized supervised learning and classification as the primary tools for conducting a comprehensive analysis of the data. The primary objective was to construct a predictive model capable of preemptively identifying bookings likely to be canceled, thus facilitating the formulation of effective policies for cancellations and refunds. This project 
+
+Key Highlights:
+
+- Conducted Exploratory Data Analysis (EDA) to understand the dataset's characteristics and patterns.
+- Implemented Data Preprocessing techniques to clean and prepare the dataset for analysis.
+- Utilized Logistic Regression to model the likelihood of booking cancellations.
+- Addressed Multicollinearity issues to ensure the robustness of the predictive model.
+- Evaluated model performance using the Area Under the Curve - Receiver Operating Characteristic (AUC-ROC) curve.
+- Employed Decision Tree algorithms and Pruning techniques to enhance predictive accuracy and interpretability.
+
+By leveraging these skills and tools, I successfully developed a predictive model that offers insights into booking cancellation patterns, thereby empowering INN Hotels to optimize their policies and mitigate revenue loss associated with cancellations.
+
+![Easy visa Images](/images/easy-visa.jpeg)
+
+**Easy Visa Project**
+
+In the "EasyVisa" project, we focused on employing ensemble techniques to analyze data pertaining to Visa applicants. Our objective was to build a predictive model facilitating the visa approval process. Additionally, we aimed to recommend suitable applicant profiles for visa certification or denial based on factors significantly influencing visa status.
+
+Key Highlights:
+
+- Conducted Exploratory Data Analysis (EDA) to understand the characteristics and trends within the Visa applicant dataset.
+- Implemented Data Preprocessing techniques to clean and prepare the dataset for analysis.
+- Utilized Customer Profiling methods to identify distinct applicant profiles.
+- Employed Bagging Classifiers such as Bagging and Random Forest, as well as Boosting Classifiers including AdaBoost, Gradient Boosting, and XGBoost.
+- Utilized a Stacking Classifier to enhance model performance through ensemble learning.
+- Conducted Hyperparameter Tuning using GridSearchCV to optimize model parameters.
+- Derived actionable Business Insights from the analysis to inform decision-making processes.
+
+Through the application of these skills and tools, we developed a robust predictive model for streamlining the visa approval process and offering valuable recommendations for applicant profiles, thereby enhancing the efficiency and effectiveness of the EasyVisa system.
+
 
 ## Personal Projects
 
