@@ -135,7 +135,17 @@ Through the application of these skills and tools, we developed a robust predict
 
 [Project](https://github.com/AhmedShehata2002/Personal_Projects.git)
 
-Our project aims to build a predictive model using machine learning classification techniques to assess loan applicants' risk of default. Leveraging various data points like credit history and loan amount, we enhance model accuracy using numeric and categorical attributes. Through analyzing misclassification costs, we refine our strategy for reliable credit risk assessment. The conclusion and recommendations to the project were that post-pruning decision trees achieved the highest recall. Key features like credit history and checking balance greatly influence default prediction. We recommend adding essential columns like Debt-to-Income Ratio,Education Level, Geographic Location, Financial Assets, and Financial Reserves for comprehensive risk assessment.
+In our project, we aimed to develop a predictive model using machine learning classification techniques to assess the risk of default among loan applicants. By leveraging a range of data points including credit history and loan amount, we sought to enhance the accuracy of our model through both numeric and categorical attributes integration.
+
+Key findings:
+
+- We observed that features like credit history and checking balance wield significant influence in predicting defaults.
+- Post-pruning decision trees emerged as the most effective method, boasting the highest recall rates.
+
+Conclusion:
+Our examination underscored the critical importance of certain features, such as credit history and checking balance, in determining default risk. Furthermore, the utilization of post-pruning decision trees significantly enhanced our model's recall rates, emphasizing their effectiveness in this context. These insights provide valuable guidance for future enhancements in credit risk assessment methodologies.
+
+
 
 ![Oura Health Metrics](/images/oura_2.jpeg)
 
