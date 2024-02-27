@@ -33,7 +33,7 @@
 - Spearheaded a workplace wellness program with Perfect Balance, resulting in a 20% reduction in employee-reported pain levels after the implementation of tailored stretches and prevention methods.
 
 ## Projects
-note: Please note that I am unable to provide specific statistics or data regarding the project as they are copyrighted by PGP. For further information about the project, please feel free to contact me directly.
+<p>note: I am unable to provide specific statistics or data regarding the project as they are copyrighted by PGP. <small>For further information about the project, please feel free to contact me directly.</small></p>
 
 ![Recell Image](/images/used-cell-phones-111821.jpeg)
 
