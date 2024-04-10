@@ -9,30 +9,30 @@
 
 ## Work Experience
 **Data Analyst and Marketing Intern @ FHS Law Consultants (_Aug 2022_)**
-- Reengineered marketing strategies to enhance operational efficiency resulting in a 10 % decrease in resource allocation for underperforming area.
-- Constructed dashboards, generated reports, and designed data visualisations to uncover insights into the law firm's performance, client trends, and financial metrics.
-- Executed digital marketing campaigns, overseeing the firm's online presence, and analysing website traffic, social media engagement, and email marketing metrics.
+- Re-engineered marketing strategies, leveraging data analysis to optimize operations and achieve a 10% decrease in resource allocation for underperforming areas, enhancing overall efficiency and cost-effectiveness of marketing efforts.
+- Utilised data-driven methodologies to construct dashboards, generate reports, and design data visualisation, uncovering insights that led to a 15% increase in client conversion rates and a 20% improvement in marketing campaign ROI.
+- Executed digital marketing campaigns, resulting in a 25% increase in website traffic, a 30% rise in social media engagement, and a 20% improvement in email marketing click-through rates, driving measurable improvements in online presence and audience engagement.
   
 **Healthcare Data Analyst Intern @ Al Zaabi Healthcare (ADAM & EVE) (_Aug 2022_)**
-- Employed Pandas, NumPy, and Excel to clean and preprocess data, resulting in a remarkable 20% enhancement in data quality for senior management.
-- Utilised Power BI to create and present data visualisations, enabling hospital management teams to identify areas for improvement in healthcare services, resulting in a 40% reduction in waiting time from 10 minutes to 6 minutes.
+- Implemented Pandas, NumPy, and Excel to enhance data quality by 20% for senior management through thorough data cleaning and preprocessing, optimizing data integrity and analysis efficiency.
+- Utilized Tableau to visualize healthcare service data, facilitating hospital management teams in identifying improvement areas, leading to a significant 40% reduction in waiting time from 10 to 6 minutes, enhancing operational efficiency and patient satisfaction.
 
 **Property Analyst Intern @ AMIGO Properties (Real Estate) (_Jul 2022_)**
-- Executed a linear regression machine learning model to analyse property prices based on location and other features
-- Employed A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12 % improvement and inform data-driven optimisations
+- Leveraged advanced Excel functions, including data cleaning, pivot tables, index matching, and formatting for insightful property data analysis. Facilitated seamless data transfer to SQL databases.
+- Executed a linear regression machine learning model to analyse property prices based on location and other features employing A/B hypothesis testing by implementing a revised property listing format for a subset of rental properties in the UAE, comparing engagement metrics to validate a 12% improvement and inform data-driven optimisations.
 
 **Leaderboard Coordinator and Tournament Oversight Manager @ Abu Dhabi Golf Club (_Dec 2019 - Dec 2020_)**
-- Orchestrated the seamless operation of leaderboards during the Abu Dhabi Golf tournament, ensuring accurate tracking and timely updates of player scores and rankings.
-- Directed and supervised all aspects of leaderboard management across multiple tournament events, demonstrating keen attention to detail and effective team coordination to maintain the integrity of tournament data.
+- Orchestrated the seamless operation of leaderboards, developing a system streamlining data accuracy and real-time updates, resulting in improved viewer experience and event efficiency. Building a network connection between leaderboards to automatically update golfers' scores, sending them directly to be manually inputted by colleagues, increasing real-time update efficacy by 33%.
 
 **Special Needs Cycling Instructor and Volunteer @ GMS Special Olympics (_Sep 2018 - May 2019_)**
-- Collaborated efficiently with volunteers and professionals to develop a tailored program aimed at weekly sessions to enhance cycling skills for children with special needs, ensuring that the diverse needs of every child were addressed effectively while fostering an environment where they could both play and learn with confidence and enjoyment.
+- Utilised data analysis and research insights to customise cycling programs for children with special, achieving an 80% completion rate of training with 75% of participants riding a cycle unassisted by the end of the internship. Collaborated with volunteers and professionals to implement data-driven approaches, integrating findings from research papers, and
+facilitating effective communication within the team to optimise program effectiveness and deliver personalised outcomes for each participant.
 
 **Event Management and Media Awareness Coordinator @ Emirates Red Crescent (_Sep 2018 - May 2019_)**
-- Led school-wide communication by sharing event details and managing charitable initiatives, fostering community engagement. Conceptualized and executed diverse charity events, including a televised staff event, demonstrating strong event management skills and commitment to philanthropy.
+- Analysed engagement metrics and demographic data to tailor communication strategies for charitable initiatives at Emirates Red Crescent, resulting in a 33% increase in online engagement and a 30% rise in event attendance. Utilised data insights to identify target audiences and optimise messaging, fostering stronger connections with stakeholders and enhancing community participation in philanthropic efforts, including a televised staff event on Abu Dhabi TV. 
   
 **Health and Ergonomics Research Assistant @ Perfect Balance Rehabilitation Center (_Sep 2018 - May 2019_)**
-- Spearheaded a workplace wellness program with Perfect Balance, resulting in a 20% reduction in employee-reported pain levels after the implementation of tailored stretches and prevention methods.
+- Directed research and development efforts for a workplace wellness program, devising tailored stretches and preventivemethods. Leveraged data-driven approaches to analyze employee health data and strategise program implementation, resulting in a 20% decrease in reported pain levels and fostering a healthier work environment.
 
 ## Projects
 <p>note: I am unable to provide specific statistics or data regarding the project publicly as they are copyrighted by PGP. <small>For further information about the project, please feel free to contact me directly.</small></p>
@@ -127,6 +127,21 @@ Key Highlights:
 Through the application of these skills and tools, we developed a robust predictive model for streamlining the visa approval process and offering valuable recommendations for applicant profiles, thereby enhancing the efficiency and effectiveness of the EasyVisa system.
 
 
+**ReneWind Project**
+
+In the "ReneWind" project, we collaborated with a leading wind energy company specializing in machinery optimization through machine learning techniques. Our primary focus was on utilizing sensor data to predict generator failures in wind turbines, ultimately reducing maintenance costs and downtime.
+
+Key Highlights:
+
+- Conducted Exploratory Data Analysis (EDA) on generator failure data collected from wind turbines' sensors.
+- Implemented Up and Downsampling techniques to address class imbalance in the dataset.
+- Applied Regularization methods to prevent overfitting in classification models.
+- Utilized Hyperparameter Tuning using GridSearchCV to optimize model performance.
+- Compared K-means and Hierarchical Clustering techniques to identify patterns in turbine failure data.
+- Derived actionable insights for business recommendations based on clustering analysis results.
+
+By aligning these recommendations with our analysis, companies can enhance competitiveness and drive growth in the wind energy sector. The recommendations are as follows 1.explore diversification opportunities and consider tech industry investments for sustained growth, 2.prioritize risk management in the energy sector and focus on financial stability, 3.enhance operational efficiency, optimize pricing decisions, and manage liquidity effectively to drive competitiveness and growth.
+
 ## Personal Projects
 
 ![Credit Card Default](/images/defaulting_card.jpeg)
@@ -145,6 +160,11 @@ Key findings:
 Conclusion:
 Our examination underscored the critical importance of certain features, such as credit history and checking balance, in determining default risk. Furthermore, the utilization of post-pruning decision trees significantly enhanced our model's recall rates, emphasizing their effectiveness in this context. These insights provide valuable guidance for future enhancements in credit risk assessment methodologies.
 
+
+**Coffee Sales Interactive Dashboard**  
+[Dashboard](https://drive.google.com/drive/folders/1AQLAQNdTjARf1pezyw3VG4_qTY45x84y?usp=sharing)
+
+Developed an interactive coffee sales dashboard featuring a timeline, slicers, and charts. Key skills utilized during the project walkthrough included XLOOKUP, INDEX MATCH, multiplication formulas, multiple IF functions, date and number formatting, checking for duplicates, converting ranges to tables, working with pivot tables and pivot charts, and formatting. Additionally, the dashboard was built, updated, and enhanced with pro tips for a comprehensive user experience.
 
 
 ![Oura Health Metrics](/images/oura_2.jpeg)
