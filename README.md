@@ -161,12 +161,12 @@ Key findings:
 Conclusion:
 Our examination underscored the critical importance of certain features, such as credit history and checking balance, in determining default risk. Furthermore, the utilization of post-pruning decision trees significantly enhanced our model's recall rates, emphasizing their effectiveness in this context. These insights provide valuable guidance for future enhancements in credit risk assessment methodologies.
 
-![Coffee Dashboard Default](/images/CoffeeDashboard.jpeg)
+![Dashboard Default](/images/CoffeeDashboard.jpeg)
 
 **Coffee Sales Interactive Dashboard**  
 [Dashboard](https://drive.google.com/drive/folders/1AQLAQNdTjARf1pezyw3VG4_qTY45x84y?usp=sharing)
 
-Developed an interactive coffee sales dashboard featuring a timeline, slicers, and charts. Key skills utilized during the project walkthrough included XLOOKUP, INDEX MATCH, multiplication formulas, multiple IF functions, date and number formatting, checking for duplicates, converting ranges to tables, working with pivot tables and pivot charts, and formatting. Additionally, the dashboard was built, updated, and enhanced with pro tips for a comprehensive user experience.
+Developed an interactive coffee sales dashboard featuring a timeline, slicers, and charts. Key skills utilized during the project walkthrough included XLOOKUP, INDEX MATCH, multiplication formulas, multiple IF functions, date and number formatting, checking for duplicates, converting ranges to tables, working with pivot tables and pivot charts, and formatting. Additionally, the dashboard was built, updated, and enhanced with pro tips for a comprehensive user experience. Note: You may have to downlad the file to use all features. 
 
 
 ![Oura Health Metrics](/images/oura_2.jpeg)
