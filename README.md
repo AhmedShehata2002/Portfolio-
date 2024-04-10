@@ -161,7 +161,7 @@ Key findings:
 Conclusion:
 Our examination underscored the critical importance of certain features, such as credit history and checking balance, in determining default risk. Furthermore, the utilization of post-pruning decision trees significantly enhanced our model's recall rates, emphasizing their effectiveness in this context. These insights provide valuable guidance for future enhancements in credit risk assessment methodologies.
 
-![Coffee Dashboard Default](/images/Coffee Dashboard.jpeg)
+![Coffee Dashboard Default](/images/CoffeeDashboard.jpeg)
 
 **Coffee Sales Interactive Dashboard**  
 [Dashboard](https://drive.google.com/drive/folders/1AQLAQNdTjARf1pezyw3VG4_qTY45x84y?usp=sharing)
