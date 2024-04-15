@@ -68,7 +68,7 @@ Skills List:
 
 ![E News Image](/images/E-news2.jpeg)
   
-**E-news Express Project| A/B Testing**
+**E-news Express Project: A/B Testing**
 
 Project Summary:
 
@@ -94,7 +94,7 @@ Skills List:
 
 ![Recell Image](/images/used-cell-phones-111821.jpeg)
 
-**ReCell Project| Supervised Learning Foundations**  
+**ReCell Project: Supervised Learning Foundations**  
 
 Project Summary:
 
@@ -121,7 +121,7 @@ Skills List:
 
 ![INN Hotel Images](/images/INN-Hotel.jpeg)
 
-**INN Hotel Analysis| Supervised Learning Classification**
+**INN Hotel Analysis: Supervised Learning Classification**
 
 Project Summary:
 
@@ -162,7 +162,7 @@ Other recommendations:
 
 ![Easy visa Images](/images/easy-visa.jpeg)
 
-**Easy Visa Project| Ensemble Techniques Bagging and Boosting**
+**Easy Visa Project: Ensemble Techniques Bagging and Boosting**
 
 Project Summary:
 
@@ -204,7 +204,7 @@ Recommendations:
   
 ![ReneWind Images](/images/windenergy.jpeg)
 
-**ReneWind Project| Model Tuning**
+**ReneWind Project: Model Tuning**
 
 Project Summary:
 
@@ -236,7 +236,7 @@ Actionable Insights and Recommendations:
 
 ![Trade&Ahead Images](/images/trade.jpeg)
 
-**Trade&Ahead Project| Unsupervised Learning**
+**Trade&Ahead Project: Unsupervised Learning**
 
 Project Summary:
 
