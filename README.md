@@ -43,7 +43,7 @@ facilitating effective communication within the team to optimise program effecti
 
 ![Food Hub Images](/images/Hubfood.jpeg)
 
-**FoodHub Order Analysis|Python Foundations**
+**FoodHub Order Analysis: Python Foundations**
 
 Project Summary:
 
