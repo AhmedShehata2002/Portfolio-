@@ -1,7 +1,11 @@
 # Data Scientist 
 
-## Technical Skills
-- Python, SQL, Tableau, Excel
+## Technical Skills, Libraries and Software Tools
+Python; C; Command Line; SQL; Seaborn; Exploratory Data Analysis; NumPy; Pandas; Matplotlib; Scikit-learn; SciPy; Power BI; Tableau; Canva,
+Microsoft Excel; Microsoft PowerPoint; Microsoft Office; Database Management; Data Preprocessing; Data Wrangling; Data Cleaning; Predictive
+Modelling; Generative AI; Deep Learning; Model Employment; Machine Learning; Hyperparameter tuning; Exploratory Data Analysis; Hypothesis A/B
+testing; Business Intelligence; Ensemble Techniques; Supervised Learning; Classification; Unsupervised Learning; Statistical Analysis; AdaBoost,
+Gradient Boosting, XGBoost; Dashboard Development; Decision Tree Algorithms; Linear Regression; K-means and Hierarchical Clustering
 
 ## Education
 - Post Graduate Programme, Data Science and Business Analytics | Texas McCombs School of Business (_Aug 2023 - May 2024_)
@@ -37,111 +41,229 @@ facilitating effective communication within the team to optimise program effecti
 ## Projects
 <p>note: I am unable to provide specific statistics or data regarding the project publicly as they are copyrighted by PGP. <small>For further information about the project, please feel free to contact me directly.</small></p>
 
-![Recell Image](/images/used-cell-phones-111821.jpeg)
+![Food Hub Images](/images/Hubfood.jpeg)
 
-**ReCell Project**  
+**FoodHub Order Analysis| Python Foundations**
 
 Project Summary:
 
-Throughout the Supervised Learning - Post Graduate Programme Course, I led the ReCell Project, harnessing my Python expertise to dissect a dataset containing used devices. Employing Linear Regression, I crafted a dynamic pricing model tailored to used and refurbished devices. To ensure robustness, I meticulously evaluated and rectified Linear Regression assumptions, thereby enhancing the model's reliability. The analysis unveiled pivotal factors impacting device prices, highlighting proficiency in Exploratory Data Analysis (EDA) and offering actionable business insights and recommendations grounded in the model's findings.
+In the FoodHub Order Analysis project, conducted during the PGP Course, I analyzed data from a food aggregator company to derive actionable insights using Python. The project aimed to enhance customer experience by understanding the demand for various restaurants in New York, facilitated by the company's online portal. Through extensive exploratory data analysis, including Variable Identification, Univariate analysis, and Bi-Variate analysis, I addressed key questions posed by the Data Science team to improve business strategies.
 
 Key Highlights:
 
-- Applied Exploratory Data Analysis (EDA) to extract insights from the used devices dataset.
-- Implemented Linear Regression to develop a dynamic pricing model for used and refurbished devices.
-- Rigorously evaluated and addressed assumptions underpinning Linear Regression to fortify the model's accuracy and dependability.
-- Identified and analyzed factors exerting significant influence on device prices, fostering informed decision-making.
-- Presented valuable business insights and recommendations derived from the model's findings, underscoring the practical application of data-driven strategies.
+- Applied Exploratory Data Analysis techniques, including Variable Identification, Univariate analysis, and Bi-Variate analysis.
+- Utilized Python for comprehensive data analysis.
+- Collaborated with the Data Science team to decipher actionable insights.
+- Employed statistical and analytical methods to extract valuable insights for strategic decision-making.
 
-The ReCell Project underscored the importance of leveraging advanced analytical techniques to inform pricing strategies and extract actionable insights for business enhancement. For further details regarding the project, please don't hesitate to reach out.
+Skills List:
+
+- Exploratory Data Analysis
+- Variable Identification
+- Univariate Analysis
+- Bi-Variate Analysis
+- Python
+- Data Manipulation: numpy, pandas
+- Data Visualization: matplotlib.pyplot, seaborn
 
 ![E News Image](/images/E-news2.jpeg)
   
-**E-news Express Project**
+**E-news Express Project| A/B Testing**
 
 Project Summary:
 
-Under the purview of the Business Statistics course, the E-news Express Project centered on leveraging statistical analysis, A/B testing, and visualization techniques to assess the efficacy of a new landing page for an online news portal, E-news Express. Through examination of a simulated dataset featuring critical metrics such as conversion status and time spent on the page, the project aimed to determine the landing page's ability to attract new subscribers. Additionally, the project scrutinized the correlation between conversion rates and users' preferred language.
+Within the Business Statistics course, the E-news Express Project focused on evaluating the effectiveness of a new landing page for an online news portal, E-news Express. Utilizing statistical analysis, A/B testing, and visualization techniques, the project aimed to assess the page's ability to attract new subscribers and examined the correlation between conversion rates and users' preferred language.
 
 Key Highlights:
 
-- Applied statistical analysis methodologies including Hypothesis Testing and A/B testing to evaluate the effectiveness of the new landing page.
-- Utilized Data Visualization techniques to present insights gleaned from the dataset in a clear and comprehensible manner.
-- Examined critical metrics such as conversion status and time spent on the page to draw conclusions regarding the landing page's efficacy.
-- Investigated the influence of users' preferred language on conversion rates to identify potential patterns or correlations.
-- Engaged in Statistical Inference to derive meaningful insights and make informed decisions regarding the new landing page's performance.
+- Applied statistical analysis methodologies such as Hypothesis Testing and A/B testing.
+- Utilized Data Visualization techniques to present insights effectively.
+- Examined critical metrics like conversion status and time spent on the page to draw conclusions.
+- Investigated the influence of users' preferred language on conversion rates.
+- Engaged in Statistical Inference to derive meaningful insights and make informed decisions.
 
-The E-news Express Project underscored the importance of utilizing statistical analysis and testing methodologies to inform decision-making processes and optimize business strategies. For further details on the project, please feel free to reach out for additional information.
+Skills List:
 
-![Food Hub Images](/images/Hubfood.jpeg)
+- Hypothesis Testing
+- A/B Testing
+- Data Visualization
+- Statistical Inference
+- Data Manipulation: numpy, pandas
+- Data Visualization: matplotlib.pyplot, seaborn
+- Statistical Libraries: scipy.stats
 
-**FoodHub Order Analysis**
+![Recell Image](/images/used-cell-phones-111821.jpeg)
+
+**ReCell Project| Supervised Learning Foundations**  
 
 Project Summary:
 
-During the PGP Course, I embarked on the FoodHub Order Analysis Project, delving into orders data from a food aggregator company. Employing Python as the primary language, the project revolved around conducting extensive exploratory data analysis to uncover insights crucial for refining the company's business strategies. Key analytical techniques such as Variable Identification, Univariate analysis, and Bi-Variate analysis were instrumental in addressing pivotal questions posed by the Data Science team.
+The ReCell Project, conducted during the Supervised Learning - Foundations course, focused on developing a dynamic pricing strategy for used and refurbished devices. Leveraging Python and advanced analytical techniques, including Linear Regression, the project aimed to identify key factors influencing device prices. By meticulously evaluating model assumptions and offering actionable insights, the project underscored the significance of data-driven strategies in optimizing pricing strategies.
 
 Key Highlights:
 
-- Applied Exploratory Data Analysis techniques including Variable Identification, Univariate analysis, and Bi-Variate analysis to dissect the orders data.
-- Utilized Python as the primary language for conducting comprehensive data analysis.
-- Collaborated with the Data Science team to decipher actionable insights aimed at enhancing business strategies.
-- Analyzed key questions outlined by the Data Science team to derive meaningful conclusions from the data.
-- Employed statistical and analytical methods to extract valuable insights and inform strategic decision-making processes.
+- Applied Exploratory Data Analysis (EDA) to extract insights from the dataset.
+- Implemented Linear Regression to develop a dynamic pricing model for used and refurbished devices.
+- Rigorously evaluated and addressed assumptions underpinning Linear Regression to enhance model accuracy.
+- Identified pivotal factors influencing device prices, fostering informed decision-making.
+- Presented actionable business insights and recommendations grounded in the model's findings.
 
-The FoodHub Order Analysis project underscored the importance of leveraging data-driven insights to refine business strategies and improve operational efficiency within the food aggregator company. For further insights into the project, feel free to contact me for additional details.
+Skills List:
+
+- Exploratory Data Analysis
+- Linear Regression
+- Linear Regression Assumptions
+- Business Insights and Recommendations
+- Data Manipulation: numpy, pandas
+- Data Visualization: matplotlib.pyplot, seaborn
+- Statistical Libraries: scipy.stats
+- Model Evaluation: train_test_split, statsmodels.api, mean_absolute_error, mean_squared_error
 
 ![INN Hotel Images](/images/INN-Hotel.jpeg)
 
-**INN Hotel Analysis**
+**INN Hotel Analysis| Supervised Learning Classification**
 
-In the "INN Hotels" project, we utilized supervised learning and classification as the primary tools for conducting a comprehensive analysis of the data. The primary objective was to construct a predictive model capable of preemptively identifying bookings likely to be canceled, thus facilitating the formulation of effective policies for cancellations and refunds. This project 
+Project Summary:
+
+In the INN Hotels project, conducted during the Supervised Learning - Classification course, the primary objective was to develop a predictive model capable of preemptively identifying bookings likely to be canceled. Leveraging supervised learning techniques such as Logistic Regression and Decision Tree algorithms, along with exploratory data analysis and data preprocessing, the project aimed to identify influential factors on booking cancellations and formulate profitable policies for cancellations and refunds.
 
 Key Highlights:
 
-- Conducted Exploratory Data Analysis (EDA) to understand the dataset's characteristics and patterns.
+- Conducted Exploratory Data Analysis (EDA) to understand dataset characteristics and patterns.
 - Implemented Data Preprocessing techniques to clean and prepare the dataset for analysis.
-- Utilized Logistic Regression to model the likelihood of booking cancellations.
-- Addressed Multicollinearity issues to ensure the robustness of the predictive model.
+- Utilized Logistic Regression and Decision Tree algorithms for classification tasks.
+- Addressed Multicollinearity issues to ensure model robustness.
 - Evaluated model performance using the Area Under the Curve - Receiver Operating Characteristic (AUC-ROC) curve.
-- Employed Decision Tree algorithms and Pruning techniques to enhance predictive accuracy and interpretability.
+- Employed pruning techniques to enhance decision tree model performance and interpretability.
 
-By leveraging these skills and tools, I successfully developed a predictive model that offers insights into booking cancellation patterns, thereby empowering INN Hotels to optimize their policies and mitigate revenue loss associated with cancellations.
+Skills List:
+
+- Exploratory Data Analysis
+- Data Preprocessing
+- Logistic Regression
+- Multicollinearity
+- AUC-ROC Curve
+- Decision Tree
+- Pruning
+- Data Manipulation: pandas, numpy
+- Data Visualization: matplotlib.pyplot, seaborn
+- Model Evaluation: metrics, DecisionTreeClassifier
+- Statistical Libraries: statsmodels.api
+- Classification Techniques: Logistic Regression, Decision Tree
+
+Actionable Insights and Recommendations:
+
+Profitable policies for cancellations and refunds:
+- Implement a deposit policy based on lead time and room price to incentivize guests to commit to their bookings.
+- Consider collecting additional data directly from guests regarding cancellation reasons, origin (abroad/resident), and purpose of stay (business/vacation) to improve model predictions.
+Other recommendations:
+- Develop a system to alert management when guests exhibit high-risk characteristics for cancellation, such as long lead times, special requests, and market segment.
+- Continuously monitor and update policies based on insights gained from the predictive model to adapt to changing booking patterns and guest behaviors.
 
 ![Easy visa Images](/images/easy-visa.jpeg)
 
-**Easy Visa Project**
+**Easy Visa Project| Ensemble Techniques Bagging and Boosting**
 
-In the "EasyVisa" project, we focused on employing ensemble techniques to analyze data pertaining to Visa applicants. Our objective was to build a predictive model facilitating the visa approval process. Additionally, we aimed to recommend suitable applicant profiles for visa certification or denial based on factors significantly influencing visa status.
+Project Summary:
+
+In the EasyVisa project, conducted during the Ensemble Techniques course, the primary objective was to build a predictive model to streamline the visa approval process and recommend suitable applicant profiles for visa certification or denial. Leveraging ensemble techniques such as Bagging Classifiers (Bagging and Random Forest), Boosting Classifiers (AdaBoost, Gradient Boosting, XGBoost), and a Stacking Classifier, along with exploratory data analysis (EDA) and data preprocessing, the project aimed to identify influential factors on visa status and offer actionable insights for decision-making.
 
 Key Highlights:
 
-- Conducted Exploratory Data Analysis (EDA) to understand the characteristics and trends within the Visa applicant dataset.
+- Conducted Exploratory Data Analysis (EDA) to understand dataset characteristics and trends.
 - Implemented Data Preprocessing techniques to clean and prepare the dataset for analysis.
 - Utilized Customer Profiling methods to identify distinct applicant profiles.
-- Employed Bagging Classifiers such as Bagging and Random Forest, as well as Boosting Classifiers including AdaBoost, Gradient Boosting, and XGBoost.
-- Utilized a Stacking Classifier to enhance model performance through ensemble learning.
+- Employed Ensemble Techniques including Bagging Classifiers (Bagging and Random Forest), Boosting Classifiers (AdaBoost, Gradient Boosting, XGBoost), and a Stacking Classifier for classification tasks.
 - Conducted Hyperparameter Tuning using GridSearchCV to optimize model parameters.
 - Derived actionable Business Insights from the analysis to inform decision-making processes.
 
-Through the application of these skills and tools, we developed a robust predictive model for streamlining the visa approval process and offering valuable recommendations for applicant profiles, thereby enhancing the efficiency and effectiveness of the EasyVisa system.
+Skills List:
 
+- Exploratory Data Analysis
+- Data Preprocessing
+- Customer Profiling
+- Bagging Classifiers: Bagging, Random Forest
+- Boosting Classifiers: AdaBoost, Gradient Boosting, XGBoost
+- Stacking Classifier
+- Hyperparameter Tuning using GridSearchCV
+- Business Insights
+- Data Manipulation: pandas, numpy
+- Data Visualization: matplotlib.pyplot, seaborn
+- Model Evaluation: metrics, GridSearchCV
+- Classification Techniques: DecisionTreeClassifier, LogisticRegression
+
+Actionable Insights and Recommendations:
+
+Actionable Insights:
+- Identified important features influencing visa status, such as previous job experience, payment method, and education level.
+- Highlighted that applicants from Asia are more likely to face visa denials compared to other continents.
+Recommendations:
+- Implement a checklist system to alert employees to investigate further when applicants exhibit high-risk characteristics.
+- Develop sophisticated matching algorithms to match employment vacancies with appropriate candidates based on experience, skill sets, and company criteria.
+- Utilize forecasting and predictive analytics to predict future trends in labor demand and streamline the visa approval process.
+  
 ![ReneWind Images](/images/windenergy.jpeg)
 
-**ReneWind Project**
+**ReneWind Project| Model Tuning**
 
-In the "ReneWind" project, we collaborated with a leading wind energy company specializing in machinery optimization through machine learning techniques. Our primary focus was on utilizing sensor data to predict generator failures in wind turbines, ultimately reducing maintenance costs and downtime.
+Project Summary:
+
+In the "ReneWind" project, our collaboration with a leading wind energy company focused on leveraging machine learning techniques to predict generator failures in wind turbines. By analyzing sensor data, our goal was to reduce maintenance costs and minimize downtime, ultimately enhancing operational efficiency and optimizing resource allocation.
 
 Key Highlights:
 
-- Conducted Exploratory Data Analysis (EDA) on generator failure data collected from wind turbines' sensors.
-- Implemented Up and Downsampling techniques to address class imbalance in the dataset.
-- Applied Regularization methods to prevent overfitting in classification models.
-- Utilized Hyperparameter Tuning using GridSearchCV to optimize model performance.
-- Compared K-means and Hierarchical Clustering techniques to identify patterns in turbine failure data.
-- Derived actionable insights for business recommendations based on clustering analysis results.
+- Exploratory Data Analysis (EDA): Conducted thorough EDA on generator failure data collected from wind turbines' sensors to understand underlying patterns and relationships.
+- Class Imbalance Handling: Implemented Up and Downsampling techniques to address class imbalance in the dataset, ensuring balanced representation of failure and non-failure cases.
+- Regularization: Applied Regularization methods to prevent overfitting in classification models, thereby improving generalization performance on unseen data.
+- Hyperparameter Tuning: Utilized Hyperparameter Tuning techniques such as GridSearchCV to optimize model performance and fine-tune model parameters for better predictive accuracy.
+- Clustering Analysis: Compared K-means and Hierarchical Clustering techniques to identify patterns in turbine failure data, offering insights into potential groupings or clusters within the dataset.
+- Business Recommendations: Derived actionable insights from clustering analysis results to inform strategic decision-making processes and optimize maintenance strategies.
 
-By aligning these recommendations with our analysis, companies can enhance competitiveness and drive growth in the wind energy sector. The recommendations are as follows 1.explore diversification opportunities and consider tech industry investments for sustained growth, 2.prioritize risk management in the energy sector and focus on financial stability, 3.enhance operational efficiency, optimize pricing decisions, and manage liquidity effectively to drive competitiveness and growth.
+Skills: 
+
+- Up and downsampling
+- Regularization
+- Hyperparameter tuning
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Model evaluation and optimization
+- Clustering techniques: K-means, Hierarchical Clustering
+  
+Actionable Insights and Recommendations:
+- Feature Importance: Identified key features such as V18, V39, and V3 as significant predictors of generator failures, providing valuable insights into factors driving the target variable.
+- Model Performance: Achieved optimal model performance using XGBoost with random search CV tuning, particularly excelling in recall and F1-score metrics, indicating the model's effectiveness in identifying positive cases accurately.
+- Interpretability Challenges: While the model demonstrates strong predictive performance, interpreting the significance of features may require domain-specific knowledge and context, highlighting the importance of collaborating with domain experts to decode the model's output.
+
+![Trade&Ahead Images](/images/trade.jpeg)
+
+**Trade&Ahead Project| Unsupervised Learning**
+
+Project Summary:
+
+In the "Trade&Ahead" project, we collaborated with a financial consultancy firm to analyze stock data and group stocks based on their attributes. Our goal was to provide insights into the characteristics of each group, enabling personalized investment strategies for clients.
+
+Key Highlights:
+- Exploratory Data Analysis (EDA): Conducted thorough EDA on stock price and financial indicator data to understand underlying patterns and relationships.
+- K-means Clustering: Utilized K-means clustering to group stocks based on similar characteristics, enabling the identification of clusters with distinct attributes.
+- Hierarchical Clustering: Employed Hierarchical Clustering as an alternative technique to group stocks, comparing results with K-means clustering to assess similarities and differences.
+- Cluster Profiling: Conducted cluster profiling to extract actionable insights and recommendations for each group of stocks, focusing on diversification opportunities, industry investments, risk management, operational efficiency enhancement, strategic pricing decisions, and liquidity management.
+
+Skills:
+
+- Exploratory Data Analysis (EDA)
+- K-means Clustering
+- Hierarchical Clustering
+- Cluster Profiling
+
+Recommendations:
+
+- Diversification Opportunities: Explore partnerships with firms from other clusters for growth potential.
+- Tech Industry Investment: Consider stocks dominated by tech giants for investment opportunities.
+- Risk Management: Prioritize robust risk management strategies, especially in volatile sectors.
+- Operational Efficiency: Optimize processes and cost-saving measures for enhanced efficiency.
+- Strategic Pricing: Tailor pricing strategies based on market factors to optimize competitiveness.
+- Liquidity Management: Ensure adequate cash reserves for financial resilience and stability.
+
 
 ## Personal Projects
 
