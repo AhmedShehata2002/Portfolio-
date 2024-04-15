@@ -12,7 +12,7 @@ Gradient Boosting, XGBoost; Dashboard Development; Decision Tree Algorithms; Lin
 - Bachelor of Science, Medical Science | Oxford Brookes University (_Sep 2020 - May 2023_) 
 
 ## Work Experience
-**Data Analyst and Marketing Intern @ FHS Law Consultants (_Aug 2022_)**
+**Data Analyst and Marketing Intern @ FHS Law Consultants (_Sept 2022_)**
 - Re-engineered marketing strategies, leveraging data analysis to optimize operations and achieve a 10% decrease in resource allocation for underperforming areas, enhancing overall efficiency and cost-effectiveness of marketing efforts.
 - Utilised data-driven methodologies to construct dashboards, generate reports, and design data visualisation, uncovering insights that led to a 15% increase in client conversion rates and a 20% improvement in marketing campaign ROI.
 - Executed digital marketing campaigns, resulting in a 25% increase in website traffic, a 30% rise in social media engagement, and a 20% improvement in email marketing click-through rates, driving measurable improvements in online presence and audience engagement.
