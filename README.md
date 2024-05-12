@@ -290,6 +290,12 @@ Our examination underscored the critical importance of certain features, such as
 
 Developed an interactive coffee sales dashboard featuring a timeline, slicers, and charts. Key skills utilized during the project walkthrough included XLOOKUP, INDEX MATCH, multiplication formulas, multiple IF functions, date and number formatting, checking for duplicates, converting ranges to tables, working with pivot tables and pivot charts, and formatting. Additionally, the dashboard was built, updated, and enhanced with pro tips for a comprehensive user experience. Note: You may have to downlad the file to use all features. 
 
+![SQLBankchurn](/images/SQLBankchurn.jpg)
+**Analyzing Subscription Churn Rates: Leveraging Advanced SQL Techniques for Actionable Insights**  
+[SQL Project](https://github.com/AhmedShehata2002/Personal_Projects.git)
+
+In this project, we're diving into subscription churn rates for Codeflix, a new streaming service. Our main goal is to figure out how many users are canceling their subscriptions over time. We're also looking at two different groups of users to see if there are differences in how often they cancel. We'll dig through the subscription data, following Codeflix's rules like the minimum subscription length of 31 days. We'll use some advanced SQL techniques like aggregates, unions, temporary tables, cross joins, case statements, and aliasing to do this. Our aim is to provide insights that help Codeflix keep users around and grow their business.
+
 
 ![Oura Health Metrics](/images/oura_2.jpeg)
 
